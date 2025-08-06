@@ -1,0 +1,28 @@
+{
+    "857023881373286420_scammer": true,
+    "857023881373286420_data": {
+        "id": "857023881373286420",
+        "username": ".37p",
+        "discriminator": "0",
+        "story": ".",
+        "victim": null,
+        "amount": "sad",
+        "proofs": [
+            {
+                "name": "78d96fe0-d46a-483b-bd5f-8054a1bd15ba.png",
+                "url": "https://cdn.discordapp.com/ephemeral-attachments/1399038468654501893/1399546124221681786/78d96fe0-d46a-483b-bd5f-8054a1bd15ba.png?ex=68896466&is=688812e6&hm=5b6fc9256b4ea86b5204767e02b841982e1f8100e4c7d55cda9add13caf1687b&",
+                "proxyURL": "https://media.discordapp.net/ephemeral-attachments/1399038468654501893/1399546124221681786/78d96fe0-d46a-483b-bd5f-8054a1bd15ba.png?ex=68896466&is=688812e6&hm=5b6fc9256b4ea86b5204767e02b841982e1f8100e4c7d55cda9add13caf1687b&",
+                "contentType": "image/png"
+            },
+            {
+                "name": "6982744c-654a-44f8-ae49-601b08f5920ee.png",
+                "url": "https://cdn.discordapp.com/ephemeral-attachments/1399038468654501893/1399546130613670020/6982744c-654a-44f8-ae49-601b08f5920ee.png?ex=68896467&is=688812e7&hm=4566849c8d490cb991faf92fa092a04aadf31ba8a5b82ac62031ecc7a0f541db&",
+                "proxyURL": "https://media.discordapp.net/ephemeral-attachments/1399038468654501893/1399546130613670020/6982744c-654a-44f8-ae49-601b08f5920ee.png?ex=68896467&is=688812e7&hm=4566849c8d490cb991faf92fa092a04aadf31ba8a5b82ac62031ecc7a0f541db&",
+                "contentType": "image/png"
+            }
+        ],
+        "addedBy": "832761264542449695",
+        "addedAt": "2025-07-29T00:16:40.129Z",
+        "guildId": "1399011900284731392"
+    }
+}
